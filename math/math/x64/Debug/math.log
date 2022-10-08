@@ -1,0 +1,3 @@
+﻿  math.cpp
+C:\Users\Dell-7380\OneDrive - christianlifeag.org\codes\math\math\math.cpp(7,5): error C2065: 'a': undeclared identifier
+C:\Users\Dell-7380\OneDrive - christianlifeag.org\codes\math\math\math.cpp(8,13): error C2065: 'a': undeclared identifier
